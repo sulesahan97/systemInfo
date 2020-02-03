@@ -9,10 +9,14 @@ can be showed by commands.
 
 
 
-./systeminfo.out                      -> only shows CPU informations.
-./systeminfo.out -all                 -> CPU + system statistics
-./systeminfo.out  -p                  -> CPU + process(which selected) details
-./systeminfo.out  -all -p             -> CPU + system statistics + process details
+./systeminfo.out                     
+-> only shows CPU informations.
+./systeminfo.out -all                 
+-> CPU + system statistics
+./systeminfo.out  -p                  
+-> CPU + process(which selected) details
+./systeminfo.out  -all -p             
+-> CPU + system statistics + process details
 
 
 I referred the sources which I used in my code.Thank you from here :)
