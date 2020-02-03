@@ -8,6 +8,7 @@ the system informations such as CPU informations, process informations which sel
 can be showed by commands.
 
 
+
 ./systeminfo.out                      -> only shows CPU informations.
 ./systeminfo.out -all                 -> CPU + system statistics
 ./systeminfo.out  -p                  -> CPU + process(which selected) details
